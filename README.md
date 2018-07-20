@@ -1,2 +1,2 @@
-# scoop-chrome-wrappers
-Run famous websites in their own Chrome windows with separate profiles
+# cilq scoop bucket
+My personal collection of things I need to install.

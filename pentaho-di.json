@@ -1,0 +1,22 @@
+{
+    "version": "8.0.0.0-28",
+    "homepage": "https://www.hitachivantara.com/en-us/products/big-data-integration-analytics/pentaho-data-integration.html",
+    "url": "https://sourceforge.net/projects/pentaho/files/Pentaho 8.0/client-tools/pdi-ce-8.0.0.0-28.zip",
+    "hash": "52333d725523c9f3cb86b66eee768872660462484feabc78e9d402a4506fb5a6",
+    "extract_dir": "data-integration",
+    "suggest": {
+      "JDK": [
+        "extras/oraclejdk",
+        "openjdk"
+      ]
+    },
+    "bin": [
+        "Spoon.bat"
+    ],
+    "shortcuts": [
+        [
+            "Spoon.bat",
+            "Pentaho DI Spoon"
+        ]
+    ]
+}
